@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="M6PQLmheuG4DkBcMsSY-">
-    <mxGraphModel dx="3055" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2312" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="LekZ4-A9BiGDiFQyZQNJ-35" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3.5" y="-170" width="63" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-36" value="N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-36" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="-120" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LekZ4-A9BiGDiFQyZQNJ-37" value="N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -184,7 +184,7 @@
         <mxCell id="LekZ4-A9BiGDiFQyZQNJ-45" value="N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17" y="-40" width="63" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-46" value="N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-46" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LekZ4-A9BiGDiFQyZQNJ-48" value="M:N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
