@@ -1,9 +1,156 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="M6PQLmheuG4DkBcMsSY-">
-    <mxGraphModel>
+    <mxGraphModel dx="1941" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-1" value="Auto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-2" value="color" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-3" value="modelo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-4" value="marca" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-5" value="&lt;u&gt;matricula&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-7" value="Precio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.95;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="-10" as="sourcePoint" />
+            <mxPoint x="70" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.575;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="-10" as="sourcePoint" />
+            <mxPoint x="-20" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="-10" as="sourcePoint" />
+            <mxPoint x="-110" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="-120" as="sourcePoint" />
+            <mxPoint x="-30" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="-120" as="sourcePoint" />
+            <mxPoint x="-70" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-13" value="Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-14" value="&lt;u&gt;Dni&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517" y="-240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-15" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="-240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-16" value="Dirección" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-17" value="Ciudad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="617" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-18" value="Numero de telefono" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-19" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.389;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LekZ4-A9BiGDiFQyZQNJ-18" target="LekZ4-A9BiGDiFQyZQNJ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="777" y="10" as="sourcePoint" />
+            <mxPoint x="817" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="657" as="sourcePoint" />
+            <mxPoint x="707" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="547" as="sourcePoint" />
+            <mxPoint x="617" y="-70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="567" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.356;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677" y="-120" as="sourcePoint" />
+            <mxPoint x="727" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.644;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="617" y="-120" as="sourcePoint" />
+            <mxPoint x="667" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-24" value="Revisión" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-25" value="Código revisión" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-26" value="Cambio filtro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-27" value="Cambio aceite" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-28" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.389;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375.01" y="3" as="sourcePoint" />
+            <mxPoint x="330" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" as="sourcePoint" />
+            <mxPoint x="270" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" as="sourcePoint" />
+            <mxPoint x="230" y="-60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-31" value="Compra" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LekZ4-A9BiGDiFQyZQNJ-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-90" as="sourcePoint" />
+            <mxPoint x="20" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LekZ4-A9BiGDiFQyZQNJ-33" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="LekZ4-A9BiGDiFQyZQNJ-13" target="LekZ4-A9BiGDiFQyZQNJ-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="497" y="-100" as="sourcePoint" />
+            <mxPoint x="547" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
