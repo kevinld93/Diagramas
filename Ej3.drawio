@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cv7cW8RBHG4uCMVtWFDh-7" value="Municipios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="695" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cv7cW8RBHG4uCMVtWFDh-8" value="Vivienda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
@@ -93,6 +93,33 @@
         </mxCell>
         <mxCell id="Cv7cW8RBHG4uCMVtWFDh-23" value="&lt;u&gt;Tipo&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="10" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-24" value="&lt;u&gt;Nombre&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="162" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-25" value="Superficie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="162" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.3;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="847" y="168" as="sourcePoint" />
+            <mxPoint x="789" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.375;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="759.5" y="162" as="sourcePoint" />
+            <mxPoint x="759.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665" y="162" as="sourcePoint" />
+            <mxPoint x="715" y="112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-29" value="Cantidad habitantes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="162" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
