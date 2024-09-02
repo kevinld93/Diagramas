@@ -205,7 +205,7 @@
         <mxCell id="Cv7cW8RBHG4uCMVtWFDh-51" value="N:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="-32" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-52" value="Propietario" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-52" value="Reside" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="-190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cv7cW8RBHG4uCMVtWFDh-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Cv7cW8RBHG4uCMVtWFDh-52">
@@ -219,6 +219,18 @@
             <mxPoint x="250" y="-100" as="sourcePoint" />
             <mxPoint x="300" y="-150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-55" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-56" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-57" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cv7cW8RBHG4uCMVtWFDh-58" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="5" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
