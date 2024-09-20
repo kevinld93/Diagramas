@@ -70,7 +70,7 @@
             <mxPoint x="484" y="74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RHQW6rZSomPcdx6U7nmE-22" value="Antiguedad" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RHQW6rZSomPcdx6U7nmE-22" value="&lt;span style=&quot;color: rgb(31, 31, 31); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Antigüedad&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="754" y="74" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RHQW6rZSomPcdx6U7nmE-23" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.014;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="RHQW6rZSomPcdx6U7nmE-22" edge="1">
