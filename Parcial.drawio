@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KMTcKbbNrr3K3NqGmCsy-34" value="Llevan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="330" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KMTcKbbNrr3K3NqGmCsy-35" value="Compran" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="383" width="80" height="80" as="geometry" />
